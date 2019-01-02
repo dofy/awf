@@ -3,8 +3,13 @@
 ## Index
 
 - Repeat TEXTs
+  - Input some **TEXTs** like `XYZ*3`
+  - Seletet the **TEXTs** and press `Ctrl + Enter`
+  - then you will get `XYZXYZXYZ`
 - Media
+  - Control your iTunes use shortcut
 - Keey Trash Clean
+  - Empty trash whih shortcut - `Cmd + Shift + Ctrl + E`
 - Toggle Applications
 
 
