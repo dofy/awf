@@ -9,7 +9,7 @@
 - Media
   - Control your iTunes use shortcut
 - Keey Trash Clean
-  - Empty trash whih shortcut - `Cmd + Shift + Ctrl + E`
+  - Empty trash whih shortcut
 - Toggle Applications
 
 
